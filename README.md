@@ -1,7 +1,7 @@
 🚨 CitiFix 2.0 — Community-Driven Civic Issue Resolution Platform
 
 🔗 Live Deployment:
-👉 https://citifix21.vercel.app/
+👉 https://citifix2-0.vercel.app/
 
 🏆 Problem Statement
 
